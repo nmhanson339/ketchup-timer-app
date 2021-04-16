@@ -1,0 +1,22 @@
+/* - - - - - GENERAL STYLES - - - - - */
+body {
+  // margin: 0;
+  * {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  ul {
+    padding-left: 0;
+  }
+
+  ul li {
+    list-style: none;
+  }
+}
+
+

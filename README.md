@@ -1,6 +1,6 @@
 # Norman Hanson - Ketchup Timer Application
 
-Synopsis: A simple to use task management application that's loosely based on the Pomodoro techinique.
+Synopsis:
 
 ## Table of contents
 

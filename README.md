@@ -25,8 +25,8 @@ Synopsis: A simple to use task management application that's loosely based on th
 
 Users should be able to:
 
-- User story #1
-- User story #2
+-
+-
 
 ### Screenshot
 

@@ -23,10 +23,11 @@ Synopsis: A simple to use task management application that's loosely based on th
 
 ### User story
 
-Users should be able to:
+As a User:
 
-- User story #1
-- User story #2
+- I can set a timer that rings an alarm when an event's time has elapsed.
+- I can customize the length of each event
+- I can define a label for each event
 
 ### Screenshot
 
